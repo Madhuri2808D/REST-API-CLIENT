@@ -43,8 +43,8 @@
 3.It sends an HTTP GET request to OpenWeatherMap API.
 
 4.The JSON response is parsed to extract weather details.
-T
-5.he extracted data is displayed in a structured format.
+
+5.The extracted data is displayed in a structured format.
 
 
 ##*Applications* :
@@ -54,3 +54,5 @@ T
 2.Data-driven analytics for climate monitoring.
 
 3.Can be extended to fetch weather data for multiple cities.
+
+##*Output* :
