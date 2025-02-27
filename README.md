@@ -56,3 +56,5 @@
 3.Can be extended to fetch weather data for multiple cities.
 
 ##*Output* :
+
+![Image](https://github.com/user-attachments/assets/955c5e6a-2607-4e28-a3c7-41c26c9a5619)
