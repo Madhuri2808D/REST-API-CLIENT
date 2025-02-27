@@ -18,13 +18,13 @@
 
 ##*Tools & Technologies Used* :
 
-*Java*: Used for implementing API calls and parsing JSON.
+1.*Java*: Used for implementing API calls and parsing JSON.
 
-*VS Code*: Used to write and save the Java code.
+2.*VS Code*: Used to write and save the Java code.
 
-*Command Prompt (CMD)*: Used to compile and execute the program.
+3.*Command Prompt (CMD)*: Used to compile and execute the program.
 
-*HTTPURLConnection*: Used to make API calls.
+4.*HTTPURLConnection*: Used to make API calls.
 
 *JSON Parsing (org.json package)*: Used to process the JSON response from the API.
 
